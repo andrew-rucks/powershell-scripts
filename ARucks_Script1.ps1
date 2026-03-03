@@ -4,6 +4,7 @@
 # 2/18/26
 # FOR CIT 241 - Systems Programming
 # ENDPOINT SECURITY CONFIGURATION REPORT
+# This script gathers configuration info from the machine and returns it as an HTML report.
 
 #region Variables
 # section 1
@@ -150,4 +151,5 @@ echo "Generating report..."
 start ./ARucks_GeneratedReport.html
 
 #endregion
+
 
