@@ -2,7 +2,7 @@
 
 # Andrew Rucks
 # 2/18/26
-# FOR CIT 241 - SYSTEMS PROGRAMMING
+# FOR CIT 241 - Systems Programming
 # ENDPOINT SECURITY CONFIGURATION REPORT
 
 #region Variables
@@ -150,3 +150,4 @@ echo "Generating report..."
 start ./ARucks_GeneratedReport.html
 
 #endregion
+
